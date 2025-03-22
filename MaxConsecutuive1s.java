@@ -1,6 +1,5 @@
-import java.util.Arrays;
 
-public class MaxConsecutive{
+public class MaxConsecutuive1s{
     
 
     public static int movezero(int[] arr) {
